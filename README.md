@@ -1,2 +1,2 @@
-# Sierpenski_Carpet
+# Sierpinski_Carpet
 Assignment for DKU CG
